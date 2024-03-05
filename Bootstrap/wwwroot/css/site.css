@@ -21,3 +21,13 @@ body {
 .row > div {
     border: 1px solid black;
 }
+
+.row > div {
+    border:1px solid black;
+    margin-bottom: 1rem;
+    height: 100px;
+
+}
+.row > div {
+    border: 1px solid black;
+}

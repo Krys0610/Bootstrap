@@ -28,4 +28,4 @@ C:\Users\Krys\source\repos\Bootstrap\Bootstrap\obj\Debug\net6.0\refint\Bootstrap
 C:\Users\Krys\source\repos\Bootstrap\Bootstrap\obj\Debug\net6.0\Bootstrap.pdb
 C:\Users\Krys\source\repos\Bootstrap\Bootstrap\obj\Debug\net6.0\Bootstrap.genruntimeconfig.cache
 C:\Users\Krys\source\repos\Bootstrap\Bootstrap\obj\Debug\net6.0\ref\Bootstrap.dll
-C:\Users\Krys\Source\Repos\Bootstrap\Bootstrap\obj\Debug\net6.0\Bootstrap.sourcelink.json
+C:\Users\Krys\Source\Repos\Bootstrap\Bootstrap\obj\Debug\net6.0\Bootstrap.csproj.AssemblyReference.cache
