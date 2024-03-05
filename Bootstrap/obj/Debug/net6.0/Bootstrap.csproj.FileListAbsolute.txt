@@ -6,7 +6,6 @@ C:\Users\Krys\source\repos\Bootstrap\Bootstrap\bin\Debug\net6.0\Bootstrap.deps.j
 C:\Users\Krys\source\repos\Bootstrap\Bootstrap\bin\Debug\net6.0\Bootstrap.runtimeconfig.json
 C:\Users\Krys\source\repos\Bootstrap\Bootstrap\bin\Debug\net6.0\Bootstrap.dll
 C:\Users\Krys\source\repos\Bootstrap\Bootstrap\bin\Debug\net6.0\Bootstrap.pdb
-C:\Users\Krys\source\repos\Bootstrap\Bootstrap\obj\Debug\net6.0\Bootstrap.csproj.AssemblyReference.cache
 C:\Users\Krys\source\repos\Bootstrap\Bootstrap\obj\Debug\net6.0\Bootstrap.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Krys\source\repos\Bootstrap\Bootstrap\obj\Debug\net6.0\Bootstrap.AssemblyInfoInputs.cache
 C:\Users\Krys\source\repos\Bootstrap\Bootstrap\obj\Debug\net6.0\Bootstrap.AssemblyInfo.cs
@@ -29,3 +28,4 @@ C:\Users\Krys\source\repos\Bootstrap\Bootstrap\obj\Debug\net6.0\refint\Bootstrap
 C:\Users\Krys\source\repos\Bootstrap\Bootstrap\obj\Debug\net6.0\Bootstrap.pdb
 C:\Users\Krys\source\repos\Bootstrap\Bootstrap\obj\Debug\net6.0\Bootstrap.genruntimeconfig.cache
 C:\Users\Krys\source\repos\Bootstrap\Bootstrap\obj\Debug\net6.0\ref\Bootstrap.dll
+C:\Users\Krys\Source\Repos\Bootstrap\Bootstrap\obj\Debug\net6.0\Bootstrap.sourcelink.json
