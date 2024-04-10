@@ -1,12 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\Bootstrap",
-    "\\Bootstrap\\Views",
-    "\\Bootstrap\\Views\\Home",
-    "\\Bootstrap\\wwwroot",
-    "\\Bootstrap\\wwwroot\\css"
+    ""
   ],
-  "SelectedNode": "\\Bootstrap\\wwwroot\\css\\site.css",
+  "SelectedNode": "\\Bootstrap.sln",
   "PreviewInSolutionExplorer": false
 }
