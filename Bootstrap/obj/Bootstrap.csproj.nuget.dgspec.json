@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Krys\\Source\\Repos\\Bootstrap\\Bootstrap\\Bootstrap.csproj": {}
+    "C:\\Users\\Krys\\source\\repos\\Bootstrap\\Bootstrap\\Bootstrap.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Krys\\Source\\Repos\\Bootstrap\\Bootstrap\\Bootstrap.csproj": {
+    "C:\\Users\\Krys\\source\\repos\\Bootstrap\\Bootstrap\\Bootstrap.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Krys\\Source\\Repos\\Bootstrap\\Bootstrap\\Bootstrap.csproj",
+        "projectUniqueName": "C:\\Users\\Krys\\source\\repos\\Bootstrap\\Bootstrap\\Bootstrap.csproj",
         "projectName": "Bootstrap",
-        "projectPath": "C:\\Users\\Krys\\Source\\Repos\\Bootstrap\\Bootstrap\\Bootstrap.csproj",
+        "projectPath": "C:\\Users\\Krys\\source\\repos\\Bootstrap\\Bootstrap\\Bootstrap.csproj",
         "packagesPath": "C:\\Users\\Krys\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Krys\\Source\\Repos\\Bootstrap\\Bootstrap\\obj\\",
+        "outputPath": "C:\\Users\\Krys\\source\\repos\\Bootstrap\\Bootstrap\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Krys\\AppData\\Roaming\\NuGet\\NuGet.Config",
