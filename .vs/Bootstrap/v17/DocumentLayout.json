@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Krys\\source\\repos\\Bootstrap\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE66E803-0F0A-4901-9308-D5763FF4C7CF}|Bootstrap\\Bootstrap.csproj|c:\\users\\krys\\source\\repos\\bootstrap\\bootstrap\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE66E803-0F0A-4901-9308-D5763FF4C7CF}|Bootstrap\\Bootstrap.csproj|solutionrelative:bootstrap\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AE66E803-0F0A-4901-9308-D5763FF4C7CF}|Bootstrap\\Bootstrap.csproj|c:\\users\\krys\\source\\repos\\bootstrap\\bootstrap\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{AE66E803-0F0A-4901-9308-D5763FF4C7CF}|Bootstrap\\Bootstrap.csproj|solutionrelative:bootstrap\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE66E803-0F0A-4901-9308-D5763FF4C7CF}|Bootstrap\\Bootstrap.csproj|c:\\users\\krys\\source\\repos\\bootstrap\\bootstrap\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE66E803-0F0A-4901-9308-D5763FF4C7CF}|Bootstrap\\Bootstrap.csproj|solutionrelative:bootstrap\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,17 +18,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Krys\\source\\repos\\Bootstrap\\Bootstrap\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Bootstrap\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\Krys\\source\\repos\\Bootstrap\\Bootstrap\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Bootstrap\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAQwCcAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-05T00:31:42.218Z",
               "IsPinned": true,
@@ -36,15 +36,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\Krys\\source\\repos\\Bootstrap\\Bootstrap\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "Bootstrap\\wwwroot\\css\\site.css",
               "ToolTip": "C:\\Users\\Krys\\source\\repos\\Bootstrap\\Bootstrap\\wwwroot\\css\\site.css",
               "RelativeToolTip": "Bootstrap\\wwwroot\\css\\site.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAcAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-03-05T00:31:42.316Z"
+              "WhenOpened": "2024-03-05T00:31:42.316Z",
+              "EditorCaption": ""
             }
           ]
         }

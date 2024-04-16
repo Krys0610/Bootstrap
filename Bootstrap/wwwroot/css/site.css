@@ -28,3 +28,9 @@ body {
 .row > div {
     border: 1px solid black;
 }
+
+.carousel-control-prev-icon, .carousel-control-next-icon{
+    background-color: red;
+    border-radius: 50%;
+
+}
