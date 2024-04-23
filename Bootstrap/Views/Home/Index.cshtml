@@ -1,29 +1,32 @@
 ﻿@{
     ViewData["Title"] = "Home Page";
 }
-<button class="btn btn-primary text-reset" data-bs-toggle="offcanvas" data-bs-target="#ejemploOffcanvas">
-    Abrir offcanvas
-</button>
 
+<button type="button" class="btn btn-primary" onclick="mostrarToast()">Mostrar toast</button>
 
-<div class="offcanvas offcanvas-start" tabindex="-1" id="ejemploOffcanvas">
-    <div class="offcanvas-header">
-        <h5 class="offcanvas-title">Mi aplicación</h5>
-        <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas"</button>
-    </div>
-    <div class="offcanvas-body">
-        <div >
-            Un texto de ejemplo
+<div class="position-fixed bottom-0 end-0 p-3" style="z-index: 11">
+    <div id="miToast" class="toast">
+        <div class="toast-heater">
+            <strong class="me-auto">Mensaje enviado</strong>
+            <small>Hace unos instantes</small>
+            <button class="btn-close" data-bs-dismiss="toast"</button>
+        </div>
+
+        <div class="toast-body">
+            El mensaje fue enviado a Claudia.
         </div>
     </div>
 </div>
 
-
-
-
-
-
-
+@section Scripts{
+    <script>
+        function mostrarToast(){
+            var ejemploToast = document.getElementById('miToast');
+            var toast = new bootstrap.Toast(ejemploToast);
+            toast.show();
+        }
+    </script>
+}
 
 
 
